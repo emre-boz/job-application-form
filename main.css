@@ -50,7 +50,7 @@
     justify-content: space-around;
   }
 
-  label{
+  label, #checkPasswords, #browseFileHead {
     font-size: 1.6rem;
   }
 
@@ -283,9 +283,6 @@
     margin-bottom: .5rem;
   }
 
-  #browseFileHead{
-    font-size: 1.6rem;
-  }
   #checkedItems span {
     width: 100%;
   }
